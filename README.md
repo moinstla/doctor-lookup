@@ -1,18 +1,30 @@
-# README title
-This is a brief description of what the software does.
-### Setup/Installation Requirements
-* list item 1
-* list item 2
-* list item 3
-### Known Bugs
-List known bugs or issues here
-### Technologies Used
-* Tech 1
-* Tech 2
-* Tech 3
-### By Authors
-### Support and contact details
-_contact info here_
+# Doctor Lookup
+
+#### Modern JS Apps Independent Project, 5/27/2017
+
+#### By Monique St. Laurent
+
+## Description
+
+An application that uses the BetterDoctor API to return a list of doctors that specialize in the medical condition that the user enters
+
+## Setup/Installation Requirements
+
+* Clone the repository: 'git clone https://github.com/moinstla/doctor-lookup.git'
+* Navigate to the project directory, run '$ NPM install', then '$ bower install'
+* Get an API key from (https://developer.betterdoctor.com/, save in a new file .env
+* Run '$ gulp build', then '$ gulp serve' to display in browser
+
+## Technologies Used
+* NPM
+* Gulp
+* Bower
+* JavaScript
+* jQuery
+* Bootsrap
+* CSS
+* HTML
+
 ### License
-_MIT_
-Copyright (c) _year_ **Author or Organization**
+
+This software is available under the MIT License Copyright (c) 2017 Monique St. Laurent
